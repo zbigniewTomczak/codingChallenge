@@ -27,4 +27,4 @@ Katas are prerequisite for Coding challenge. During coding challenge you will pr
 - How should I structure my tests?
 
 During coding challenge you will be asked not to think too much about the solution and have faith in following the approach. 
-Most of the problems you face during Coding channlenge is small enougth that if you will uausally jump right to the implementation. I would like you to fight this temptation. Coding challenge approach works for bigger problems too but because of time limitation we'are forced to work on small examples. 
+Most of the problems you face during Coding challenge is small enough that if you will usually jump right to the implementation. I would like you to fight this temptation. Coding challenge approach works for bigger problems too but because of time limitation we are forced to work on small examples. 
