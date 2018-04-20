@@ -16,8 +16,10 @@ Examples
 	new Ordering().orderWord("") => "Invalid String!"
 
 Notes
-	• the given string can be lowercase and uppercase.
-	• the string could include spaces or other special characters like '# ! or ,'
+	- the given string can be lowercase and uppercase.
+	- the string could include spaces or other special characters like '# ! or ,'
+	- always start with test first
+	- keep the code clean and production ready
 */
 
 public class Ordering {
